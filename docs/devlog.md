@@ -6,3 +6,4 @@
 - 2023-06-19: Improve CLI help descriptions and output formatting
 - 2023-06-20: Add basic unit tests for normalizer homophones
 - 2023-06-20: Add sentence tokenizer regex split
+- 2023-06-20: Add word tokenizer splitting by Amharic space ፡
