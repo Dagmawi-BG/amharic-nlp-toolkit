@@ -10,3 +10,4 @@
 - 2023-06-20: Add basic unit tests for normalizer homophones
 - 2023-06-21: Fix edge case in transliteration of special punctuation
 - 2023-06-21: Add word tokenizer splitting by Amharic space ፡
+- 2023-06-23: Add test cases for word and sentence tokenization
