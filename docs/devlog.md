@@ -12,3 +12,4 @@
 - 2023-06-21: Add word tokenizer splitting by Amharic space ፡
 - 2023-06-23: Add test cases for word and sentence tokenization
 - 2023-06-23: Create CLI wrapper with argparse
+- 2023-06-23: Optimize character replacer logic using dict lookup
