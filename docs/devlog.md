@@ -13,3 +13,4 @@
 - 2023-06-23: Add test cases for word and sentence tokenization
 - 2023-06-23: Create CLI wrapper with argparse
 - 2023-06-23: Optimize character replacer logic using dict lookup
+- 2023-06-25: Add benchmark test scripts to run tokenization speeds
