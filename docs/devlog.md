@@ -21,3 +21,4 @@
 - 2023-06-30: Refactor code structure to modular python package
 - 2023-07-03: Create CLI wrapper with argparse
 - 2023-07-03: Implement stopwords filter utility function
+- 2023-07-03: Add sentence tokenizer regex split
