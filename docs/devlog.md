@@ -24,3 +24,4 @@
 - 2023-07-03: Add sentence tokenizer regex split
 - 2023-07-03: Add test cases for word and sentence tokenization
 - 2023-07-06: Improve test suite coverage to 92%
+- 2023-07-07: Fix zero-width space normalization bug
