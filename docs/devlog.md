@@ -27,3 +27,4 @@
 - 2023-07-07: Fix zero-width space normalization bug
 - 2023-07-10: Complete transliterator mappings for all vowel forms
 - 2023-07-11: Refactor regex patterns to precompiled objects
+- 2023-07-11: Add benchmark test scripts to run tokenization speeds
