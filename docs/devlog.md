@@ -29,3 +29,4 @@
 - 2023-07-11: Refactor regex patterns to precompiled objects
 - 2023-07-11: Add benchmark test scripts to run tokenization speeds
 - 2023-07-11: Define initial list of Amharic stopwords
+- 2023-07-12: Add benchmark test scripts to run tokenization speeds
