@@ -31,3 +31,4 @@
 - 2023-07-11: Define initial list of Amharic stopwords
 - 2023-07-12: Add benchmark test scripts to run tokenization speeds
 - 2023-07-12: Refactor code structure to modular python package
+- 2023-07-17: Add benchmark test scripts to run tokenization speeds
