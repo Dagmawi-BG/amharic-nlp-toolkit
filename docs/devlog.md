@@ -32,3 +32,4 @@
 - 2023-07-12: Add benchmark test scripts to run tokenization speeds
 - 2023-07-12: Refactor code structure to modular python package
 - 2023-07-17: Add benchmark test scripts to run tokenization speeds
+- 2023-07-18: Optimize character replacer logic using dict lookup
