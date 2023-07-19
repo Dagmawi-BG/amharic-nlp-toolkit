@@ -35,3 +35,4 @@
 - 2023-07-18: Optimize character replacer logic using dict lookup
 - 2023-07-19: Complete transliterator mappings for all vowel forms
 - 2023-07-19: Refactor regex patterns to precompiled objects
+- 2023-07-19: Add basic transliteration mappings for common consonants
