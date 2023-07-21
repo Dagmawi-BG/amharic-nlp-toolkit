@@ -37,3 +37,4 @@
 - 2023-07-19: Refactor regex patterns to precompiled objects
 - 2023-07-19: Add basic transliteration mappings for common consonants
 - 2023-07-19: Update Amharic stopword list with 10 new words
+- 2023-07-21: Update setup.py and requirements.txt dependencies
