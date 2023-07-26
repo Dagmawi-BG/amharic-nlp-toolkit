@@ -39,3 +39,4 @@
 - 2023-07-19: Update Amharic stopword list with 10 new words
 - 2023-07-21: Update setup.py and requirements.txt dependencies
 - 2023-07-26: Add benchmark test scripts to run tokenization speeds
+- 2023-07-26: Add sentence tokenizer regex split
