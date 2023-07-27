@@ -41,3 +41,4 @@
 - 2023-07-26: Add benchmark test scripts to run tokenization speeds
 - 2023-07-26: Add sentence tokenizer regex split
 - 2023-07-27: Add word tokenizer splitting by Amharic space ፡
+- 2023-07-27: Add benchmark test scripts to run tokenization speeds
