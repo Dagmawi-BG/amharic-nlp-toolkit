@@ -45,3 +45,4 @@
 - 2023-07-28: Complete transliterator mappings for all vowel forms
 - 2023-07-28: Refactor regex patterns to precompiled objects
 - 2023-07-31: Improve CLI help descriptions and output formatting
+- 2023-08-01: Add benchmark test scripts to run tokenization speeds
