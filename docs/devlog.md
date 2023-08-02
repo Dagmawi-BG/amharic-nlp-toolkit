@@ -47,3 +47,4 @@
 - 2023-07-31: Improve CLI help descriptions and output formatting
 - 2023-08-01: Add benchmark test scripts to run tokenization speeds
 - 2023-08-01: Add basic unit tests for normalizer homophones
+- 2023-08-02: Fix zero-width space normalization bug
