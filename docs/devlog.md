@@ -51,3 +51,4 @@
 - 2023-08-04: Improve test suite coverage to 92%
 - 2023-08-05: Update Amharic stopword list with 10 new words
 - 2023-08-05: Update Amharic stopword list with 10 new words
+- 2023-08-05: Optimize character replacer logic using dict lookup
