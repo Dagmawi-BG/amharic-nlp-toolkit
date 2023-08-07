@@ -52,3 +52,4 @@
 - 2023-08-05: Update Amharic stopword list with 10 new words
 - 2023-08-05: Update Amharic stopword list with 10 new words
 - 2023-08-05: Optimize character replacer logic using dict lookup
+- 2023-08-07: Refactor code structure to modular python package
