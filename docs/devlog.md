@@ -54,3 +54,4 @@
 - 2023-08-05: Optimize character replacer logic using dict lookup
 - 2023-08-07: Refactor code structure to modular python package
 - 2023-08-08: Add word tokenizer splitting by Amharic space ፡
+- 2023-08-08: Update Amharic stopword list with 10 new words
