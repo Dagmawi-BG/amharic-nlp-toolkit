@@ -58,3 +58,4 @@
 - 2023-08-10: Fix edge case in transliteration of special punctuation
 - 2023-08-14: Fix zero-width space normalization bug
 - 2023-08-14: Define initial list of Amharic stopwords
+- 2023-08-14: Add benchmark test scripts to run tokenization speeds
