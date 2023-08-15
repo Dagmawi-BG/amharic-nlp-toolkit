@@ -61,3 +61,4 @@
 - 2023-08-14: Add benchmark test scripts to run tokenization speeds
 - 2023-08-15: Improve test suite coverage to 92%
 - 2023-08-15: Create CLI wrapper with argparse
+- 2023-08-15: Add basic transliteration mappings for common consonants
