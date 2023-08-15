@@ -59,3 +59,4 @@
 - 2023-08-14: Fix zero-width space normalization bug
 - 2023-08-14: Define initial list of Amharic stopwords
 - 2023-08-14: Add benchmark test scripts to run tokenization speeds
+- 2023-08-15: Improve test suite coverage to 92%
