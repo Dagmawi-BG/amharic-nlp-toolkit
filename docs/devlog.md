@@ -62,3 +62,4 @@
 - 2023-08-15: Improve test suite coverage to 92%
 - 2023-08-15: Create CLI wrapper with argparse
 - 2023-08-15: Add basic transliteration mappings for common consonants
+- 2023-08-18: Add test cases for word and sentence tokenization
