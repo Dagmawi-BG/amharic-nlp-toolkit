@@ -64,3 +64,4 @@
 - 2023-08-15: Add basic transliteration mappings for common consonants
 - 2023-08-18: Add test cases for word and sentence tokenization
 - 2023-08-18: Implement stopwords filter utility function
+- 2023-08-21: Define initial list of Amharic stopwords
