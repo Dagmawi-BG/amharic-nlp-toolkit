@@ -66,3 +66,4 @@
 - 2023-08-18: Implement stopwords filter utility function
 - 2023-08-21: Define initial list of Amharic stopwords
 - 2023-08-22: Complete transliterator mappings for all vowel forms
+- 2023-08-22: Optimize character replacer logic using dict lookup
