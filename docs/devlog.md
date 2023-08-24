@@ -68,3 +68,4 @@
 - 2023-08-22: Complete transliterator mappings for all vowel forms
 - 2023-08-22: Optimize character replacer logic using dict lookup
 - 2023-08-22: Optimize character replacer logic using dict lookup
+- 2023-08-24: Implement stopwords filter utility function
