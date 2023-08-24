@@ -69,3 +69,4 @@
 - 2023-08-22: Optimize character replacer logic using dict lookup
 - 2023-08-22: Optimize character replacer logic using dict lookup
 - 2023-08-24: Implement stopwords filter utility function
+- 2023-08-24: Define initial list of Amharic stopwords
