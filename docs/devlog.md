@@ -71,3 +71,4 @@
 - 2023-08-24: Implement stopwords filter utility function
 - 2023-08-24: Define initial list of Amharic stopwords
 - 2023-08-26: Refactor regex patterns to precompiled objects
+- 2023-08-26: Add sentence tokenizer regex split
