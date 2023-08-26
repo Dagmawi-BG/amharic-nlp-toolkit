@@ -72,3 +72,4 @@
 - 2023-08-24: Define initial list of Amharic stopwords
 - 2023-08-26: Refactor regex patterns to precompiled objects
 - 2023-08-26: Add sentence tokenizer regex split
+- 2023-08-26: Update setup.py and requirements.txt dependencies
