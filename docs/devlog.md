@@ -73,3 +73,4 @@
 - 2023-08-26: Refactor regex patterns to precompiled objects
 - 2023-08-26: Add sentence tokenizer regex split
 - 2023-08-26: Update setup.py and requirements.txt dependencies
+- 2023-08-29: Add basic transliteration mappings for common consonants
