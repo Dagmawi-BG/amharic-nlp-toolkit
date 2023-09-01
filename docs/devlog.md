@@ -76,3 +76,4 @@
 - 2023-08-29: Add basic transliteration mappings for common consonants
 - 2023-08-30: Fix edge case in transliteration of special punctuation
 - 2023-09-01: Create CLI wrapper with argparse
+- 2023-09-01: Fix zero-width space normalization bug
