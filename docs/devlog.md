@@ -79,3 +79,4 @@
 - 2023-09-01: Fix zero-width space normalization bug
 - 2023-09-01: Optimize character replacer logic using dict lookup
 - 2023-09-01: Fix edge case in transliteration of special punctuation
+- 2023-09-02: Update setup.py and requirements.txt dependencies
