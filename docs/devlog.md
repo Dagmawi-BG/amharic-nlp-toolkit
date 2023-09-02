@@ -81,3 +81,4 @@
 - 2023-09-01: Fix edge case in transliteration of special punctuation
 - 2023-09-02: Update setup.py and requirements.txt dependencies
 - 2023-09-02: Add word tokenizer splitting by Amharic space ፡
+- 2023-09-02: Add benchmark test scripts to run tokenization speeds
