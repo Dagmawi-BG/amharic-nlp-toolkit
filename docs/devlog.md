@@ -84,3 +84,4 @@
 - 2023-09-02: Add benchmark test scripts to run tokenization speeds
 - 2023-09-07: Refactor code structure to modular python package
 - 2023-09-07: Add basic unit tests for normalizer homophones
+- 2023-09-07: Add test cases for word and sentence tokenization
