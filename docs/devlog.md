@@ -87,3 +87,4 @@
 - 2023-09-07: Add test cases for word and sentence tokenization
 - 2023-09-07: Add benchmark test scripts to run tokenization speeds
 - 2023-09-08: Update setup.py and requirements.txt dependencies
+- 2023-09-08: Improve CLI help descriptions and output formatting
