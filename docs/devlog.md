@@ -91,3 +91,4 @@
 - 2023-09-08: Implement stopwords filter utility function
 - 2023-09-13: Optimize character replacer logic using dict lookup
 - 2023-09-13: Update Amharic stopword list with 10 new words
+- 2023-09-13: Add word tokenizer splitting by Amharic space ፡
