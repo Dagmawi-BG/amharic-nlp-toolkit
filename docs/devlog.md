@@ -89,3 +89,4 @@
 - 2023-09-08: Update setup.py and requirements.txt dependencies
 - 2023-09-08: Improve CLI help descriptions and output formatting
 - 2023-09-08: Implement stopwords filter utility function
+- 2023-09-13: Optimize character replacer logic using dict lookup
