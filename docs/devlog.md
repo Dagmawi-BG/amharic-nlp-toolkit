@@ -93,3 +93,4 @@
 - 2023-09-13: Update Amharic stopword list with 10 new words
 - 2023-09-13: Add word tokenizer splitting by Amharic space ፡
 - 2023-09-13: Complete transliterator mappings for all vowel forms
+- 2023-09-14: Define initial list of Amharic stopwords
