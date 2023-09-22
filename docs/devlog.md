@@ -98,3 +98,4 @@
 - 2023-09-19: Improve CLI help descriptions and output formatting
 - 2023-09-19: Improve CLI help descriptions and output formatting
 - 2023-09-22: Refactor regex patterns to precompiled objects
+- 2023-09-22: Complete transliterator mappings for all vowel forms
