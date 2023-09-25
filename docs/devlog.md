@@ -102,3 +102,4 @@
 - 2023-09-22: Fix zero-width space normalization bug
 - 2023-09-25: Complete transliterator mappings for all vowel forms
 - 2023-09-25: Add test cases for word and sentence tokenization
+- 2023-09-25: Add basic transliteration mappings for common consonants
