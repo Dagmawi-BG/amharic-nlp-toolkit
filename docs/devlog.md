@@ -104,3 +104,4 @@
 - 2023-09-25: Add test cases for word and sentence tokenization
 - 2023-09-25: Add basic transliteration mappings for common consonants
 - 2023-09-26: Add basic transliteration mappings for common consonants
+- 2023-09-26: Update Amharic stopword list with 10 new words
