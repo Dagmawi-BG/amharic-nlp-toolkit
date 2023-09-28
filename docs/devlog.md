@@ -106,3 +106,4 @@
 - 2023-09-26: Add basic transliteration mappings for common consonants
 - 2023-09-26: Update Amharic stopword list with 10 new words
 - 2023-09-28: Fix edge case in transliteration of special punctuation
+- 2023-09-28: Create CLI wrapper with argparse
