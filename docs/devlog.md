@@ -112,3 +112,4 @@
 - 2023-10-04: Update setup.py and requirements.txt dependencies
 - 2023-10-04: Refactor code structure to modular python package
 - 2023-10-04: Add basic transliteration mappings for common consonants
+- 2023-10-04: Optimize character replacer logic using dict lookup
