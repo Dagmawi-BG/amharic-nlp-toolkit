@@ -109,3 +109,4 @@
 - 2023-09-28: Create CLI wrapper with argparse
 - 2023-09-28: Update setup.py and requirements.txt dependencies
 - 2023-09-29: Refactor code structure to modular python package
+- 2023-10-04: Update setup.py and requirements.txt dependencies
