@@ -116,3 +116,4 @@
 - 2023-10-05: Add benchmark test scripts to run tokenization speeds
 - 2023-10-05: Add word tokenizer splitting by Amharic space ፡
 - 2023-10-05: Add word tokenizer splitting by Amharic space ፡
+- 2023-10-05: Complete transliterator mappings for all vowel forms
