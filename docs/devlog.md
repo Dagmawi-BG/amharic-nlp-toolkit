@@ -115,3 +115,4 @@
 - 2023-10-04: Optimize character replacer logic using dict lookup
 - 2023-10-05: Add benchmark test scripts to run tokenization speeds
 - 2023-10-05: Add word tokenizer splitting by Amharic space ፡
+- 2023-10-05: Add word tokenizer splitting by Amharic space ፡
