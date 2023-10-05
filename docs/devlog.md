@@ -113,3 +113,4 @@
 - 2023-10-04: Refactor code structure to modular python package
 - 2023-10-04: Add basic transliteration mappings for common consonants
 - 2023-10-04: Optimize character replacer logic using dict lookup
+- 2023-10-05: Add benchmark test scripts to run tokenization speeds
