@@ -118,3 +118,4 @@
 - 2023-10-05: Add word tokenizer splitting by Amharic space ፡
 - 2023-10-05: Complete transliterator mappings for all vowel forms
 - 2023-10-06: Refactor regex patterns to precompiled objects
+- 2023-10-09: Improve test suite coverage to 92%
