@@ -121,3 +121,4 @@
 - 2023-10-09: Improve test suite coverage to 92%
 - 2023-10-09: Implement stopwords filter utility function
 - 2023-10-11: Refactor code structure to modular python package
+- 2023-10-12: Complete transliterator mappings for all vowel forms
