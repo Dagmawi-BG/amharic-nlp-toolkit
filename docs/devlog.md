@@ -125,3 +125,4 @@
 - 2023-10-12: Add basic unit tests for normalizer homophones
 - 2023-10-12: Optimize character replacer logic using dict lookup
 - 2023-10-13: Add test cases for word and sentence tokenization
+- 2023-10-13: Refactor regex patterns to precompiled objects
