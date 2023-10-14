@@ -127,3 +127,4 @@
 - 2023-10-13: Add test cases for word and sentence tokenization
 - 2023-10-13: Refactor regex patterns to precompiled objects
 - 2023-10-14: Complete transliterator mappings for all vowel forms
+- 2023-10-14: Update Amharic stopword list with 10 new words
