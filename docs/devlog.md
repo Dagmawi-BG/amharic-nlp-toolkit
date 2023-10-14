@@ -129,3 +129,4 @@
 - 2023-10-14: Complete transliterator mappings for all vowel forms
 - 2023-10-14: Update Amharic stopword list with 10 new words
 - 2023-10-14: Update setup.py and requirements.txt dependencies
+- 2023-10-14: Create CLI wrapper with argparse
