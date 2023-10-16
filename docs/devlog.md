@@ -130,3 +130,4 @@
 - 2023-10-14: Update Amharic stopword list with 10 new words
 - 2023-10-14: Update setup.py and requirements.txt dependencies
 - 2023-10-14: Create CLI wrapper with argparse
+- 2023-10-16: Add basic transliteration mappings for common consonants
