@@ -131,3 +131,4 @@
 - 2023-10-14: Update setup.py and requirements.txt dependencies
 - 2023-10-14: Create CLI wrapper with argparse
 - 2023-10-16: Add basic transliteration mappings for common consonants
+- 2023-10-16: Refactor regex patterns to precompiled objects
