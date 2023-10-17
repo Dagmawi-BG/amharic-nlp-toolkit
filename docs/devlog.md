@@ -133,3 +133,4 @@
 - 2023-10-16: Add basic transliteration mappings for common consonants
 - 2023-10-16: Refactor regex patterns to precompiled objects
 - 2023-10-16: Update Amharic stopword list with 10 new words
+- 2023-10-17: Create CLI wrapper with argparse
