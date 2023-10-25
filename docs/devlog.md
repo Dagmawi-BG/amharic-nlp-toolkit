@@ -137,3 +137,4 @@
 - 2023-10-19: Refactor regex patterns to precompiled objects
 - 2023-10-24: Complete transliterator mappings for all vowel forms
 - 2023-10-25: Fix edge case in transliteration of special punctuation
+- 2023-10-25: Add test cases for word and sentence tokenization
