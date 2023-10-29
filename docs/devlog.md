@@ -140,3 +140,4 @@
 - 2023-10-25: Add test cases for word and sentence tokenization
 - 2023-10-26: Add sentence tokenizer regex split
 - 2023-10-26: Add benchmark test scripts to run tokenization speeds
+- 2023-10-29: Add basic transliteration mappings for common consonants
