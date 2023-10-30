@@ -143,3 +143,4 @@
 - 2023-10-29: Add basic transliteration mappings for common consonants
 - 2023-10-29: Implement stopwords filter utility function
 - 2023-10-29: Fix zero-width space normalization bug
+- 2023-10-30: Add basic unit tests for normalizer homophones
