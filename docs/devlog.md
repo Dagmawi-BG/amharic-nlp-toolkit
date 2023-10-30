@@ -145,3 +145,4 @@
 - 2023-10-29: Fix zero-width space normalization bug
 - 2023-10-30: Add basic unit tests for normalizer homophones
 - 2023-10-30: Optimize character replacer logic using dict lookup
+- 2023-10-30: Refactor regex patterns to precompiled objects
