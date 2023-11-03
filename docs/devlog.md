@@ -150,3 +150,4 @@
 - 2023-10-31: Refactor regex patterns to precompiled objects
 - 2023-11-01: Add sentence tokenizer regex split
 - 2023-11-01: Update Amharic stopword list with 10 new words
+- 2023-11-03: Update Amharic stopword list with 10 new words
