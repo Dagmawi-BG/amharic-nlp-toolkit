@@ -151,3 +151,4 @@
 - 2023-11-01: Add sentence tokenizer regex split
 - 2023-11-01: Update Amharic stopword list with 10 new words
 - 2023-11-03: Update Amharic stopword list with 10 new words
+- 2023-11-03: Refactor code structure to modular python package
