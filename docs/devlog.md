@@ -154,3 +154,4 @@
 - 2023-11-03: Refactor code structure to modular python package
 - 2023-11-10: Implement stopwords filter utility function
 - 2023-11-12: Complete transliterator mappings for all vowel forms
+- 2023-11-12: Improve CLI help descriptions and output formatting
