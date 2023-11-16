@@ -157,3 +157,4 @@
 - 2023-11-12: Improve CLI help descriptions and output formatting
 - 2023-11-13: Update Amharic stopword list with 10 new words
 - 2023-11-16: Add basic unit tests for normalizer homophones
+- 2023-11-16: Define initial list of Amharic stopwords
