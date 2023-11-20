@@ -159,3 +159,4 @@
 - 2023-11-16: Add basic unit tests for normalizer homophones
 - 2023-11-16: Define initial list of Amharic stopwords
 - 2023-11-20: Improve test suite coverage to 92%
+- 2023-11-20: Create CLI wrapper with argparse
