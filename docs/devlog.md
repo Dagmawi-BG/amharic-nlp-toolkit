@@ -163,3 +163,4 @@
 - 2023-11-21: Update Amharic stopword list with 10 new words
 - 2023-11-21: Init Amharic homophone normalization mapping
 - 2023-11-23: Update setup.py and requirements.txt dependencies
+- 2023-11-23: Improve CLI help descriptions and output formatting
