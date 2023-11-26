@@ -165,3 +165,4 @@
 - 2023-11-23: Update setup.py and requirements.txt dependencies
 - 2023-11-23: Improve CLI help descriptions and output formatting
 - 2023-11-23: Implement stopwords filter utility function
+- 2023-11-26: Add sentence tokenizer regex split
