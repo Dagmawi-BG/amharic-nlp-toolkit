@@ -167,3 +167,4 @@
 - 2023-11-23: Implement stopwords filter utility function
 - 2023-11-26: Add sentence tokenizer regex split
 - 2023-11-28: Add test cases for word and sentence tokenization
+- 2023-11-28: Add benchmark test scripts to run tokenization speeds
