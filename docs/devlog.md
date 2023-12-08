@@ -176,3 +176,4 @@
 - 2023-12-08: Add benchmark test scripts to run tokenization speeds
 - 2023-12-08: Refactor regex patterns to precompiled objects
 - 2023-12-08: Define initial list of Amharic stopwords
+- 2023-12-08: Fix zero-width space normalization bug
