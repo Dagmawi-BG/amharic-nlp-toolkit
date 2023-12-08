@@ -173,3 +173,4 @@
 - 2023-12-01: Optimize character replacer logic using dict lookup
 - 2023-12-05: Improve test suite coverage to 92%
 - 2023-12-05: Add basic unit tests for normalizer homophones
+- 2023-12-08: Add benchmark test scripts to run tokenization speeds
