@@ -178,3 +178,4 @@
 - 2023-12-08: Define initial list of Amharic stopwords
 - 2023-12-08: Fix zero-width space normalization bug
 - 2023-12-09: Update setup.py and requirements.txt dependencies
+- 2023-12-12: Refactor regex patterns to precompiled objects
