@@ -180,3 +180,4 @@
 - 2023-12-09: Update setup.py and requirements.txt dependencies
 - 2023-12-12: Refactor regex patterns to precompiled objects
 - 2023-12-14: Add test cases for word and sentence tokenization
+- 2023-12-14: Add benchmark test scripts to run tokenization speeds
