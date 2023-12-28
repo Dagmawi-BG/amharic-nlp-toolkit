@@ -183,3 +183,4 @@
 - 2023-12-14: Add benchmark test scripts to run tokenization speeds
 - 2023-12-28: Define initial list of Amharic stopwords
 - 2023-12-28: Fix zero-width space normalization bug
+- 2023-12-28: Add test cases for word and sentence tokenization
