@@ -186,3 +186,4 @@
 - 2023-12-28: Add test cases for word and sentence tokenization
 - 2023-12-28: Add word tokenizer splitting by Amharic space ፡
 - 2024-01-11: Add word tokenizer splitting by Amharic space ፡
+- 2024-01-12: Add basic unit tests for normalizer homophones
