@@ -188,3 +188,4 @@
 - 2024-01-11: Add word tokenizer splitting by Amharic space ፡
 - 2024-01-12: Add basic unit tests for normalizer homophones
 - 2024-01-14: Add word tokenizer splitting by Amharic space ፡
+- 2024-01-14: Update setup.py and requirements.txt dependencies
