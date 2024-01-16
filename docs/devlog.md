@@ -191,3 +191,4 @@
 - 2024-01-14: Update setup.py and requirements.txt dependencies
 - 2024-01-14: Update setup.py and requirements.txt dependencies
 - 2024-01-16: Complete transliterator mappings for all vowel forms
+- 2024-01-16: Improve CLI help descriptions and output formatting
