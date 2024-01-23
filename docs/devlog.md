@@ -196,3 +196,4 @@
 - 2024-01-18: Add basic unit tests for normalizer homophones
 - 2024-01-18: Update setup.py and requirements.txt dependencies
 - 2024-01-19: Refactor code structure to modular python package
+- 2024-01-23: Add basic transliteration mappings for common consonants
