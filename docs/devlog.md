@@ -199,3 +199,4 @@
 - 2024-01-23: Add basic transliteration mappings for common consonants
 - 2024-01-23: Update Amharic stopword list with 10 new words
 - 2024-01-23: Refactor regex patterns to precompiled objects
+- 2024-01-23: Complete transliterator mappings for all vowel forms
