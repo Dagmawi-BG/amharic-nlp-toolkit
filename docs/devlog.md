@@ -201,3 +201,4 @@
 - 2024-01-23: Refactor regex patterns to precompiled objects
 - 2024-01-23: Complete transliterator mappings for all vowel forms
 - 2024-02-01: Update setup.py and requirements.txt dependencies
+- 2024-02-01: Add word tokenizer splitting by Amharic space ፡
