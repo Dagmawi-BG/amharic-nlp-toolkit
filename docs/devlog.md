@@ -204,3 +204,4 @@
 - 2024-02-01: Add word tokenizer splitting by Amharic space ፡
 - 2024-02-02: Create CLI wrapper with argparse
 - 2024-02-06: Complete transliterator mappings for all vowel forms
+- 2024-02-06: Improve CLI help descriptions and output formatting
