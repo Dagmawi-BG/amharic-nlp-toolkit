@@ -203,3 +203,4 @@
 - 2024-02-01: Update setup.py and requirements.txt dependencies
 - 2024-02-01: Add word tokenizer splitting by Amharic space ፡
 - 2024-02-02: Create CLI wrapper with argparse
+- 2024-02-06: Complete transliterator mappings for all vowel forms
