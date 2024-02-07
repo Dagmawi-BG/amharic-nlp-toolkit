@@ -206,3 +206,4 @@
 - 2024-02-06: Complete transliterator mappings for all vowel forms
 - 2024-02-06: Improve CLI help descriptions and output formatting
 - 2024-02-06: Fix edge case in transliteration of special punctuation
+- 2024-02-07: Improve CLI help descriptions and output formatting
