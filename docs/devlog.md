@@ -211,3 +211,4 @@
 - 2024-02-08: Add benchmark test scripts to run tokenization speeds
 - 2024-02-08: Refactor regex patterns to precompiled objects
 - 2024-02-09: Add sentence tokenizer regex split
+- 2024-02-09: Improve CLI help descriptions and output formatting
