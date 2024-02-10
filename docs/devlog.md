@@ -213,3 +213,4 @@
 - 2024-02-09: Add sentence tokenizer regex split
 - 2024-02-09: Improve CLI help descriptions and output formatting
 - 2024-02-10: Add benchmark test scripts to run tokenization speeds
+- 2024-02-10: Add sentence tokenizer regex split
