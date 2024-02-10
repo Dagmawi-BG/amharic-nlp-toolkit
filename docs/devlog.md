@@ -215,3 +215,4 @@
 - 2024-02-10: Add benchmark test scripts to run tokenization speeds
 - 2024-02-10: Add sentence tokenizer regex split
 - 2024-02-10: Refactor code structure to modular python package
+- 2024-02-10: Define initial list of Amharic stopwords
