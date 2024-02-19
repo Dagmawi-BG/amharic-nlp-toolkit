@@ -217,3 +217,4 @@
 - 2024-02-10: Refactor code structure to modular python package
 - 2024-02-10: Define initial list of Amharic stopwords
 - 2024-02-16: Complete transliterator mappings for all vowel forms
+- 2024-02-19: Improve CLI help descriptions and output formatting
