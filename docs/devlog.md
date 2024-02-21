@@ -219,3 +219,4 @@
 - 2024-02-16: Complete transliterator mappings for all vowel forms
 - 2024-02-19: Improve CLI help descriptions and output formatting
 - 2024-02-20: Add test cases for word and sentence tokenization
+- 2024-02-21: Add benchmark test scripts to run tokenization speeds
