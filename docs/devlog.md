@@ -220,3 +220,4 @@
 - 2024-02-19: Improve CLI help descriptions and output formatting
 - 2024-02-20: Add test cases for word and sentence tokenization
 - 2024-02-21: Add benchmark test scripts to run tokenization speeds
+- 2024-02-22: Define initial list of Amharic stopwords
