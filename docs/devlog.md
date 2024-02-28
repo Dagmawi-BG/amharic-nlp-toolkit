@@ -222,3 +222,4 @@
 - 2024-02-21: Add benchmark test scripts to run tokenization speeds
 - 2024-02-22: Define initial list of Amharic stopwords
 - 2024-02-28: Complete transliterator mappings for all vowel forms
+- 2024-02-28: Init Amharic homophone normalization mapping
