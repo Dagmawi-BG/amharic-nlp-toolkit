@@ -223,3 +223,4 @@
 - 2024-02-22: Define initial list of Amharic stopwords
 - 2024-02-28: Complete transliterator mappings for all vowel forms
 - 2024-02-28: Init Amharic homophone normalization mapping
+- 2024-02-29: Complete transliterator mappings for all vowel forms
