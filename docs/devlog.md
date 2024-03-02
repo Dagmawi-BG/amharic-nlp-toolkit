@@ -225,3 +225,4 @@
 - 2024-02-28: Init Amharic homophone normalization mapping
 - 2024-02-29: Complete transliterator mappings for all vowel forms
 - 2024-02-29: Refactor regex patterns to precompiled objects
+- 2024-03-02: Refactor code structure to modular python package
