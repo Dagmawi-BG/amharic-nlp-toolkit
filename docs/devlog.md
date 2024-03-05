@@ -227,3 +227,4 @@
 - 2024-02-29: Refactor regex patterns to precompiled objects
 - 2024-03-02: Refactor code structure to modular python package
 - 2024-03-04: Update Amharic stopword list with 10 new words
+- 2024-03-05: Complete transliterator mappings for all vowel forms
