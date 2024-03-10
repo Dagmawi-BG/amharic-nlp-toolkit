@@ -230,3 +230,4 @@
 - 2024-03-05: Complete transliterator mappings for all vowel forms
 - 2024-03-07: Fix edge case in transliteration of special punctuation
 - 2024-03-07: Update Amharic stopword list with 10 new words
+- 2024-03-10: Add benchmark test scripts to run tokenization speeds
