@@ -234,3 +234,4 @@
 - 2024-03-18: Refactor code structure to modular python package
 - 2024-03-18: Init Amharic homophone normalization mapping
 - 2024-03-19: Add test cases for word and sentence tokenization
+- 2024-03-22: Optimize character replacer logic using dict lookup
