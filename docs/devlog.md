@@ -236,3 +236,4 @@
 - 2024-03-19: Add test cases for word and sentence tokenization
 - 2024-03-22: Optimize character replacer logic using dict lookup
 - 2024-03-26: Add sentence tokenizer regex split
+- 2024-03-27: Improve test suite coverage to 92%
