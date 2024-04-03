@@ -240,3 +240,4 @@
 - 2024-03-28: Create CLI wrapper with argparse
 - 2024-03-30: Optimize character replacer logic using dict lookup
 - 2024-03-30: Fix edge case in transliteration of special punctuation
+- 2024-04-03: Refactor code structure to modular python package
