@@ -243,3 +243,4 @@
 - 2024-04-03: Refactor code structure to modular python package
 - 2024-04-05: Add basic transliteration mappings for common consonants
 - 2024-04-11: Define initial list of Amharic stopwords
+- 2024-04-15: Add word tokenizer splitting by Amharic space ፡
