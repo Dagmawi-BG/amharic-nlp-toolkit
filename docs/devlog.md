@@ -244,3 +244,4 @@
 - 2024-04-05: Add basic transliteration mappings for common consonants
 - 2024-04-11: Define initial list of Amharic stopwords
 - 2024-04-15: Add word tokenizer splitting by Amharic space ፡
+- 2024-04-16: Add basic unit tests for normalizer homophones
