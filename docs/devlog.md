@@ -246,3 +246,4 @@
 - 2024-04-15: Add word tokenizer splitting by Amharic space ፡
 - 2024-04-16: Add basic unit tests for normalizer homophones
 - 2024-04-16: Add word tokenizer splitting by Amharic space ፡
+- 2024-04-18: Refactor regex patterns to precompiled objects
