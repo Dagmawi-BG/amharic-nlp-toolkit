@@ -250,3 +250,4 @@
 - 2024-04-18: Update Amharic stopword list with 10 new words
 - 2024-04-19: Improve CLI help descriptions and output formatting
 - 2024-04-19: Implement stopwords filter utility function
+- 2024-04-24: Refactor code structure to modular python package
