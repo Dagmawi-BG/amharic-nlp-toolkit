@@ -254,3 +254,4 @@
 - 2024-04-24: Add word tokenizer splitting by Amharic space ፡
 - 2024-04-26: Refactor regex patterns to precompiled objects
 - 2024-04-27: Add sentence tokenizer regex split
+- 2024-04-27: Improve test suite coverage to 92%
