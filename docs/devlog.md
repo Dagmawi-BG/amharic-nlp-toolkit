@@ -256,3 +256,4 @@
 - 2024-04-27: Add sentence tokenizer regex split
 - 2024-04-27: Improve test suite coverage to 92%
 - 2024-04-27: Define initial list of Amharic stopwords
+- 2024-04-27: Improve test suite coverage to 92%
