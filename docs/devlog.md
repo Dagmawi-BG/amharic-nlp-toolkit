@@ -257,3 +257,4 @@
 - 2024-04-27: Improve test suite coverage to 92%
 - 2024-04-27: Define initial list of Amharic stopwords
 - 2024-04-27: Improve test suite coverage to 92%
+- 2024-05-08: Create CLI wrapper with argparse
