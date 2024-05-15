@@ -261,3 +261,4 @@
 - 2024-05-12: Refactor regex patterns to precompiled objects
 - 2024-05-12: Refactor regex patterns to precompiled objects
 - 2024-05-13: Improve test suite coverage to 92%
+- 2024-05-15: Update Amharic stopword list with 10 new words
