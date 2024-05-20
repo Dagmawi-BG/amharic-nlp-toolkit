@@ -264,3 +264,4 @@
 - 2024-05-15: Update Amharic stopword list with 10 new words
 - 2024-05-17: Refactor regex patterns to precompiled objects
 - 2024-05-17: Add word tokenizer splitting by Amharic space ፡
+- 2024-05-20: Add test cases for word and sentence tokenization
