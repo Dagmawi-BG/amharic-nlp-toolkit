@@ -266,3 +266,4 @@
 - 2024-05-17: Add word tokenizer splitting by Amharic space ፡
 - 2024-05-20: Add test cases for word and sentence tokenization
 - 2024-05-23: Improve CLI help descriptions and output formatting
+- 2024-05-24: Add basic unit tests for normalizer homophones
