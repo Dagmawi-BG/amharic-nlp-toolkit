@@ -268,3 +268,4 @@
 - 2024-05-23: Improve CLI help descriptions and output formatting
 - 2024-05-24: Add basic unit tests for normalizer homophones
 - 2024-05-27: Optimize character replacer logic using dict lookup
+- 2024-06-03: Implement stopwords filter utility function
