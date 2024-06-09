@@ -271,3 +271,4 @@
 - 2024-06-03: Implement stopwords filter utility function
 - 2024-06-04: Add basic unit tests for normalizer homophones
 - 2024-06-07: Refactor code structure to modular python package
+- 2024-06-09: Fix edge case in transliteration of special punctuation
