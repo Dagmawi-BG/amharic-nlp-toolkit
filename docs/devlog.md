@@ -273,3 +273,4 @@
 - 2024-06-07: Refactor code structure to modular python package
 - 2024-06-09: Fix edge case in transliteration of special punctuation
 - 2024-06-10: Refactor code structure to modular python package
+- 2024-06-10: Improve CLI help descriptions and output formatting
