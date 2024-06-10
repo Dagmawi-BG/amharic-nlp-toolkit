@@ -272,3 +272,4 @@
 - 2024-06-04: Add basic unit tests for normalizer homophones
 - 2024-06-07: Refactor code structure to modular python package
 - 2024-06-09: Fix edge case in transliteration of special punctuation
+- 2024-06-10: Refactor code structure to modular python package
