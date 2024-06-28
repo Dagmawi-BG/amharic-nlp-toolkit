@@ -275,3 +275,4 @@
 - 2024-06-10: Refactor code structure to modular python package
 - 2024-06-10: Improve CLI help descriptions and output formatting
 - 2024-06-19: Improve CLI help descriptions and output formatting
+- 2024-06-28: Complete transliterator mappings for all vowel forms
