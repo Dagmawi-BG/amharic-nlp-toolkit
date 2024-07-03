@@ -277,3 +277,4 @@
 - 2024-06-19: Improve CLI help descriptions and output formatting
 - 2024-06-28: Complete transliterator mappings for all vowel forms
 - 2024-06-30: Add word tokenizer splitting by Amharic space ፡
+- 2024-07-03: Define initial list of Amharic stopwords
