@@ -278,3 +278,4 @@
 - 2024-06-28: Complete transliterator mappings for all vowel forms
 - 2024-06-30: Add word tokenizer splitting by Amharic space ፡
 - 2024-07-03: Define initial list of Amharic stopwords
+- 2024-07-03: Fix zero-width space normalization bug
