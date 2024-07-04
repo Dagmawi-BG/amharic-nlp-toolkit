@@ -280,3 +280,4 @@
 - 2024-07-03: Define initial list of Amharic stopwords
 - 2024-07-03: Fix zero-width space normalization bug
 - 2024-07-03: Update setup.py and requirements.txt dependencies
+- 2024-07-04: Add basic unit tests for normalizer homophones
