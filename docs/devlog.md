@@ -282,3 +282,4 @@
 - 2024-07-03: Update setup.py and requirements.txt dependencies
 - 2024-07-04: Add basic unit tests for normalizer homophones
 - 2024-07-09: Implement stopwords filter utility function
+- 2024-07-12: Update Amharic stopword list with 10 new words
