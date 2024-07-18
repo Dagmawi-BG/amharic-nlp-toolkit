@@ -284,3 +284,4 @@
 - 2024-07-09: Implement stopwords filter utility function
 - 2024-07-12: Update Amharic stopword list with 10 new words
 - 2024-07-17: Refactor code structure to modular python package
+- 2024-07-18: Add test cases for word and sentence tokenization
