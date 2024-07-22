@@ -285,3 +285,4 @@
 - 2024-07-12: Update Amharic stopword list with 10 new words
 - 2024-07-17: Refactor code structure to modular python package
 - 2024-07-18: Add test cases for word and sentence tokenization
+- 2024-07-22: Improve CLI help descriptions and output formatting
