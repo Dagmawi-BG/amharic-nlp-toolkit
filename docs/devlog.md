@@ -286,3 +286,4 @@
 - 2024-07-17: Refactor code structure to modular python package
 - 2024-07-18: Add test cases for word and sentence tokenization
 - 2024-07-22: Improve CLI help descriptions and output formatting
+- 2024-07-23: Add basic unit tests for normalizer homophones
