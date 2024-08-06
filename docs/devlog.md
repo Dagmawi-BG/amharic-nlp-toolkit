@@ -289,3 +289,4 @@
 - 2024-07-23: Add basic unit tests for normalizer homophones
 - 2024-07-31: Improve test suite coverage to 92%
 - 2024-08-06: Add basic unit tests for normalizer homophones
+- 2024-08-06: Update Amharic stopword list with 10 new words
