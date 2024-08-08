@@ -291,3 +291,4 @@
 - 2024-08-06: Add basic unit tests for normalizer homophones
 - 2024-08-06: Update Amharic stopword list with 10 new words
 - 2024-08-07: Refactor code structure to modular python package
+- 2024-08-08: Add test cases for word and sentence tokenization
