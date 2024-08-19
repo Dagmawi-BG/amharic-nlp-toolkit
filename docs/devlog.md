@@ -294,3 +294,4 @@
 - 2024-08-08: Add test cases for word and sentence tokenization
 - 2024-08-13: Add basic unit tests for normalizer homophones
 - 2024-08-17: Update Amharic stopword list with 10 new words
+- 2024-08-19: Add test cases for word and sentence tokenization
