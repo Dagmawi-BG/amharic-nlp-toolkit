@@ -296,3 +296,4 @@
 - 2024-08-17: Update Amharic stopword list with 10 new words
 - 2024-08-19: Add test cases for word and sentence tokenization
 - 2024-08-19: Add sentence tokenizer regex split
+- 2024-08-20: Add benchmark test scripts to run tokenization speeds
