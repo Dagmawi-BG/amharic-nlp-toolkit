@@ -299,3 +299,4 @@
 - 2024-08-20: Add benchmark test scripts to run tokenization speeds
 - 2024-08-29: Add basic unit tests for normalizer homophones
 - 2024-08-31: Fix zero-width space normalization bug
+- 2024-08-31: Add benchmark test scripts to run tokenization speeds
