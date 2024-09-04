@@ -301,3 +301,4 @@
 - 2024-08-31: Fix zero-width space normalization bug
 - 2024-08-31: Add benchmark test scripts to run tokenization speeds
 - 2024-09-04: Refactor regex patterns to precompiled objects
+- 2024-09-04: Complete transliterator mappings for all vowel forms
