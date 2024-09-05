@@ -304,3 +304,4 @@
 - 2024-09-04: Complete transliterator mappings for all vowel forms
 - 2024-09-05: Implement stopwords filter utility function
 - 2024-09-05: Refactor regex patterns to precompiled objects
+- 2024-09-05: Add basic unit tests for normalizer homophones
