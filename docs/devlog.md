@@ -307,3 +307,4 @@
 - 2024-09-05: Add basic unit tests for normalizer homophones
 - 2024-09-07: Improve CLI help descriptions and output formatting
 - 2024-09-09: Create CLI wrapper with argparse
+- 2024-09-12: Add test cases for word and sentence tokenization
