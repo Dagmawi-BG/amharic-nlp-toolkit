@@ -310,3 +310,4 @@
 - 2024-09-12: Add test cases for word and sentence tokenization
 - 2024-09-12: Add sentence tokenizer regex split
 - 2024-09-17: Add sentence tokenizer regex split
+- 2024-09-25: Improve CLI help descriptions and output formatting
