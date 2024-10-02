@@ -313,3 +313,4 @@
 - 2024-09-25: Improve CLI help descriptions and output formatting
 - 2024-09-30: Fix zero-width space normalization bug
 - 2024-09-30: Improve test suite coverage to 92%
+- 2024-10-02: Fix zero-width space normalization bug
