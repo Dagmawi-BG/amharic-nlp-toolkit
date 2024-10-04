@@ -315,3 +315,4 @@
 - 2024-09-30: Improve test suite coverage to 92%
 - 2024-10-02: Fix zero-width space normalization bug
 - 2024-10-02: Define initial list of Amharic stopwords
+- 2024-10-04: Init Amharic homophone normalization mapping
