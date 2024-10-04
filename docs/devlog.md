@@ -316,3 +316,4 @@
 - 2024-10-02: Fix zero-width space normalization bug
 - 2024-10-02: Define initial list of Amharic stopwords
 - 2024-10-04: Init Amharic homophone normalization mapping
+- 2024-10-04: Add basic unit tests for normalizer homophones
