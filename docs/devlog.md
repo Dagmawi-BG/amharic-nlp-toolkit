@@ -318,3 +318,4 @@
 - 2024-10-04: Init Amharic homophone normalization mapping
 - 2024-10-04: Add basic unit tests for normalizer homophones
 - 2024-10-07: Add word tokenizer splitting by Amharic space ፡
+- 2024-10-09: Update setup.py and requirements.txt dependencies
