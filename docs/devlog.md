@@ -320,3 +320,4 @@
 - 2024-10-07: Add word tokenizer splitting by Amharic space ፡
 - 2024-10-09: Update setup.py and requirements.txt dependencies
 - 2024-10-10: Refactor code structure to modular python package
+- 2024-10-10: Fix edge case in transliteration of special punctuation
