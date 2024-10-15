@@ -326,3 +326,4 @@
 - 2024-10-14: Add word tokenizer splitting by Amharic space ፡
 - 2024-10-14: Optimize character replacer logic using dict lookup
 - 2024-10-14: Improve CLI help descriptions and output formatting
+- 2024-10-15: Optimize character replacer logic using dict lookup
