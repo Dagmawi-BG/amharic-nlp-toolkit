@@ -328,3 +328,4 @@
 - 2024-10-14: Improve CLI help descriptions and output formatting
 - 2024-10-15: Optimize character replacer logic using dict lookup
 - 2024-10-16: Define initial list of Amharic stopwords
+- 2024-10-16: Add test cases for word and sentence tokenization
