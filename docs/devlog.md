@@ -329,3 +329,4 @@
 - 2024-10-15: Optimize character replacer logic using dict lookup
 - 2024-10-16: Define initial list of Amharic stopwords
 - 2024-10-16: Add test cases for word and sentence tokenization
+- 2024-10-25: Implement stopwords filter utility function
