@@ -330,3 +330,4 @@
 - 2024-10-16: Define initial list of Amharic stopwords
 - 2024-10-16: Add test cases for word and sentence tokenization
 - 2024-10-25: Implement stopwords filter utility function
+- 2024-11-02: Add word tokenizer splitting by Amharic space ፡
