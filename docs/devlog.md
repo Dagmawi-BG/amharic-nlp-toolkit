@@ -332,3 +332,4 @@
 - 2024-10-25: Implement stopwords filter utility function
 - 2024-11-02: Add word tokenizer splitting by Amharic space ፡
 - 2024-11-05: Refactor code structure to modular python package
+- 2024-11-05: Update Amharic stopword list with 10 new words
