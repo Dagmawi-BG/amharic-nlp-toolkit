@@ -333,3 +333,4 @@
 - 2024-11-02: Add word tokenizer splitting by Amharic space ፡
 - 2024-11-05: Refactor code structure to modular python package
 - 2024-11-05: Update Amharic stopword list with 10 new words
+- 2024-11-08: Add sentence tokenizer regex split
