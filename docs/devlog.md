@@ -334,3 +334,4 @@
 - 2024-11-05: Refactor code structure to modular python package
 - 2024-11-05: Update Amharic stopword list with 10 new words
 - 2024-11-08: Add sentence tokenizer regex split
+- 2024-11-18: Add test cases for word and sentence tokenization
