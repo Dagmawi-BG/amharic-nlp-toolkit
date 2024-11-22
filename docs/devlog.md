@@ -336,3 +336,4 @@
 - 2024-11-08: Add sentence tokenizer regex split
 - 2024-11-18: Add test cases for word and sentence tokenization
 - 2024-11-22: Optimize character replacer logic using dict lookup
+- 2024-11-22: Complete transliterator mappings for all vowel forms
