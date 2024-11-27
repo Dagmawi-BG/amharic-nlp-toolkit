@@ -340,3 +340,4 @@
 - 2024-11-22: Init Amharic homophone normalization mapping
 - 2024-11-25: Add benchmark test scripts to run tokenization speeds
 - 2024-11-27: Define initial list of Amharic stopwords
+- 2024-11-27: Fix zero-width space normalization bug
