@@ -339,3 +339,4 @@
 - 2024-11-22: Complete transliterator mappings for all vowel forms
 - 2024-11-22: Init Amharic homophone normalization mapping
 - 2024-11-25: Add benchmark test scripts to run tokenization speeds
+- 2024-11-27: Define initial list of Amharic stopwords
