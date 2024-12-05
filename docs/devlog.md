@@ -341,3 +341,4 @@
 - 2024-11-25: Add benchmark test scripts to run tokenization speeds
 - 2024-11-27: Define initial list of Amharic stopwords
 - 2024-11-27: Fix zero-width space normalization bug
+- 2024-12-05: Update Amharic stopword list with 10 new words
