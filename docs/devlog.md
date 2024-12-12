@@ -349,3 +349,4 @@
 - 2024-12-09: Refactor code structure to modular python package
 - 2024-12-12: Complete transliterator mappings for all vowel forms
 - 2024-12-12: Improve test suite coverage to 92%
+- 2024-12-12: Improve CLI help descriptions and output formatting
