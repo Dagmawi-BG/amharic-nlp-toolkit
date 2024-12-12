@@ -347,3 +347,4 @@
 - 2024-12-09: Update Amharic stopword list with 10 new words
 - 2024-12-09: Refactor code structure to modular python package
 - 2024-12-09: Refactor code structure to modular python package
+- 2024-12-12: Complete transliterator mappings for all vowel forms
