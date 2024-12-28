@@ -351,3 +351,4 @@
 - 2024-12-12: Improve test suite coverage to 92%
 - 2024-12-12: Improve CLI help descriptions and output formatting
 - 2024-12-26: Add test cases for word and sentence tokenization
+- 2024-12-28: Implement stopwords filter utility function
