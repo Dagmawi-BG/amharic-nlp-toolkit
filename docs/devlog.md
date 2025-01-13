@@ -355,3 +355,4 @@
 - 2024-12-28: Add benchmark test scripts to run tokenization speeds
 - 2025-01-07: Improve test suite coverage to 92%
 - 2025-01-08: Improve test suite coverage to 92%
+- 2025-01-13: Implement stopwords filter utility function
