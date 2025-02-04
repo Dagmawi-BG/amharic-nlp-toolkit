@@ -361,3 +361,4 @@
 - 2025-01-24: Fix edge case in transliteration of special punctuation
 - 2025-01-31: Update setup.py and requirements.txt dependencies
 - 2025-01-31: Add benchmark test scripts to run tokenization speeds
+- 2025-02-04: Add basic transliteration mappings for common consonants
