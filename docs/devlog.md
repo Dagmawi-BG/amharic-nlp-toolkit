@@ -365,3 +365,4 @@
 - 2025-02-07: Create CLI wrapper with argparse
 - 2025-02-12: Add basic unit tests for normalizer homophones
 - 2025-02-13: Define initial list of Amharic stopwords
+- 2025-02-14: Add benchmark test scripts to run tokenization speeds
