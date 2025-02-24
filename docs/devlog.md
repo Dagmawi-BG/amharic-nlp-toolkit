@@ -367,3 +367,4 @@
 - 2025-02-13: Define initial list of Amharic stopwords
 - 2025-02-14: Add benchmark test scripts to run tokenization speeds
 - 2025-02-14: Update setup.py and requirements.txt dependencies
+- 2025-02-24: Complete transliterator mappings for all vowel forms
