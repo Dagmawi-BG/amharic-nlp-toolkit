@@ -371,3 +371,4 @@
 - 2025-03-04: Update Amharic stopword list with 10 new words
 - 2025-03-06: Optimize character replacer logic using dict lookup
 - 2025-03-10: Define initial list of Amharic stopwords
+- 2025-03-10: Update setup.py and requirements.txt dependencies
