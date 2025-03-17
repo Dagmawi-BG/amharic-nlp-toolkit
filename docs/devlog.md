@@ -372,3 +372,4 @@
 - 2025-03-06: Optimize character replacer logic using dict lookup
 - 2025-03-10: Define initial list of Amharic stopwords
 - 2025-03-10: Update setup.py and requirements.txt dependencies
+- 2025-03-17: Add test cases for word and sentence tokenization
