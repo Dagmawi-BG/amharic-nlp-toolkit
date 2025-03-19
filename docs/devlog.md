@@ -374,3 +374,4 @@
 - 2025-03-10: Update setup.py and requirements.txt dependencies
 - 2025-03-17: Add test cases for word and sentence tokenization
 - 2025-03-17: Refactor regex patterns to precompiled objects
+- 2025-03-19: Implement stopwords filter utility function
