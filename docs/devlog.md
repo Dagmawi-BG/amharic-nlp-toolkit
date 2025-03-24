@@ -375,3 +375,4 @@
 - 2025-03-17: Add test cases for word and sentence tokenization
 - 2025-03-17: Refactor regex patterns to precompiled objects
 - 2025-03-19: Implement stopwords filter utility function
+- 2025-03-24: Refactor regex patterns to precompiled objects
