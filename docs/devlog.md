@@ -377,3 +377,4 @@
 - 2025-03-19: Implement stopwords filter utility function
 - 2025-03-24: Refactor regex patterns to precompiled objects
 - 2025-03-25: Add sentence tokenizer regex split
+- 2025-03-27: Add word tokenizer splitting by Amharic space ፡
