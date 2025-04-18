@@ -379,3 +379,4 @@
 - 2025-03-25: Add sentence tokenizer regex split
 - 2025-03-27: Add word tokenizer splitting by Amharic space ፡
 - 2025-04-04: Add sentence tokenizer regex split
+- 2025-04-18: Add word tokenizer splitting by Amharic space ፡
