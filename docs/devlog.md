@@ -381,3 +381,4 @@
 - 2025-04-04: Add sentence tokenizer regex split
 - 2025-04-18: Add word tokenizer splitting by Amharic space ፡
 - 2025-04-19: Fix zero-width space normalization bug
+- 2025-04-23: Add basic unit tests for normalizer homophones
