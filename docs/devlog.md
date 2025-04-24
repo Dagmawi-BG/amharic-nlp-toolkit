@@ -382,3 +382,4 @@
 - 2025-04-18: Add word tokenizer splitting by Amharic space ፡
 - 2025-04-19: Fix zero-width space normalization bug
 - 2025-04-23: Add basic unit tests for normalizer homophones
+- 2025-04-24: Update setup.py and requirements.txt dependencies
