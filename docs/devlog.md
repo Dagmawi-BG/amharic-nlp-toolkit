@@ -384,3 +384,4 @@
 - 2025-04-23: Add basic unit tests for normalizer homophones
 - 2025-04-24: Update setup.py and requirements.txt dependencies
 - 2025-04-24: Refactor code structure to modular python package
+- 2025-04-25: Define initial list of Amharic stopwords
