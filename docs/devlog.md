@@ -386,3 +386,4 @@
 - 2025-04-24: Refactor code structure to modular python package
 - 2025-04-25: Define initial list of Amharic stopwords
 - 2025-04-25: Implement stopwords filter utility function
+- 2025-04-27: Create CLI wrapper with argparse
