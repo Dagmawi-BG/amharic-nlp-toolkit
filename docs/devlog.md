@@ -387,3 +387,4 @@
 - 2025-04-25: Define initial list of Amharic stopwords
 - 2025-04-25: Implement stopwords filter utility function
 - 2025-04-27: Create CLI wrapper with argparse
+- 2025-04-30: Optimize character replacer logic using dict lookup
