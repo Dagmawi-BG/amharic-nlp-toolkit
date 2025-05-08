@@ -391,3 +391,4 @@
 - 2025-04-30: Init Amharic homophone normalization mapping
 - 2025-05-01: Optimize character replacer logic using dict lookup
 - 2025-05-08: Fix zero-width space normalization bug
+- 2025-05-08: Improve CLI help descriptions and output formatting
