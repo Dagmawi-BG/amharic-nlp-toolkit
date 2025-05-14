@@ -392,3 +392,4 @@
 - 2025-05-01: Optimize character replacer logic using dict lookup
 - 2025-05-08: Fix zero-width space normalization bug
 - 2025-05-08: Improve CLI help descriptions and output formatting
+- 2025-05-14: Fix edge case in transliteration of special punctuation
