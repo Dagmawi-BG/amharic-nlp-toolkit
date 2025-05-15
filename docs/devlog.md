@@ -393,3 +393,4 @@
 - 2025-05-08: Fix zero-width space normalization bug
 - 2025-05-08: Improve CLI help descriptions and output formatting
 - 2025-05-14: Fix edge case in transliteration of special punctuation
+- 2025-05-15: Fix edge case in transliteration of special punctuation
