@@ -396,3 +396,4 @@
 - 2025-05-15: Fix edge case in transliteration of special punctuation
 - 2025-05-17: Create CLI wrapper with argparse
 - 2025-05-19: Update Amharic stopword list with 10 new words
+- 2025-05-21: Improve CLI help descriptions and output formatting
