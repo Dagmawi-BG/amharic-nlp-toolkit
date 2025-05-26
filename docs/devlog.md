@@ -398,3 +398,4 @@
 - 2025-05-19: Update Amharic stopword list with 10 new words
 - 2025-05-21: Improve CLI help descriptions and output formatting
 - 2025-05-22: Add basic unit tests for normalizer homophones
+- 2025-05-26: Add sentence tokenizer regex split
