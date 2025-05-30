@@ -400,3 +400,4 @@
 - 2025-05-22: Add basic unit tests for normalizer homophones
 - 2025-05-26: Add sentence tokenizer regex split
 - 2025-05-28: Refactor code structure to modular python package
+- 2025-05-30: Optimize character replacer logic using dict lookup
