@@ -403,3 +403,4 @@
 - 2025-05-30: Optimize character replacer logic using dict lookup
 - 2025-05-30: Add test cases for word and sentence tokenization
 - 2025-06-03: Improve test suite coverage to 92%
+- 2025-06-11: Create CLI wrapper with argparse
