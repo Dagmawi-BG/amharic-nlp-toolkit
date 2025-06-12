@@ -404,3 +404,4 @@
 - 2025-05-30: Add test cases for word and sentence tokenization
 - 2025-06-03: Improve test suite coverage to 92%
 - 2025-06-11: Create CLI wrapper with argparse
+- 2025-06-12: Complete transliterator mappings for all vowel forms
