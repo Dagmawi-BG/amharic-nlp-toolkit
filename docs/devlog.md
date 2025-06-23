@@ -406,3 +406,4 @@
 - 2025-06-11: Create CLI wrapper with argparse
 - 2025-06-12: Complete transliterator mappings for all vowel forms
 - 2025-06-20: Refactor regex patterns to precompiled objects
+- 2025-06-23: Implement stopwords filter utility function
