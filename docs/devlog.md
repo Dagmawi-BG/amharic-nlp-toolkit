@@ -407,3 +407,4 @@
 - 2025-06-12: Complete transliterator mappings for all vowel forms
 - 2025-06-20: Refactor regex patterns to precompiled objects
 - 2025-06-23: Implement stopwords filter utility function
+- 2025-07-04: Init Amharic homophone normalization mapping
