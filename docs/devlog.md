@@ -408,3 +408,4 @@
 - 2025-06-20: Refactor regex patterns to precompiled objects
 - 2025-06-23: Implement stopwords filter utility function
 - 2025-07-04: Init Amharic homophone normalization mapping
+- 2025-07-04: Add basic unit tests for normalizer homophones
