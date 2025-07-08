@@ -411,3 +411,4 @@
 - 2025-07-04: Add basic unit tests for normalizer homophones
 - 2025-07-07: Add word tokenizer splitting by Amharic space ፡
 - 2025-07-08: Add word tokenizer splitting by Amharic space ፡
+- 2025-07-08: Fix edge case in transliteration of special punctuation
