@@ -410,3 +410,4 @@
 - 2025-07-04: Init Amharic homophone normalization mapping
 - 2025-07-04: Add basic unit tests for normalizer homophones
 - 2025-07-07: Add word tokenizer splitting by Amharic space ፡
+- 2025-07-08: Add word tokenizer splitting by Amharic space ፡
