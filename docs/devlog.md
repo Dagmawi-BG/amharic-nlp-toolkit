@@ -412,3 +412,4 @@
 - 2025-07-07: Add word tokenizer splitting by Amharic space ፡
 - 2025-07-08: Add word tokenizer splitting by Amharic space ፡
 - 2025-07-08: Fix edge case in transliteration of special punctuation
+- 2025-07-09: Improve CLI help descriptions and output formatting
