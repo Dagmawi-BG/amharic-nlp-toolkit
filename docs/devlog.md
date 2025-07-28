@@ -416,3 +416,4 @@
 - 2025-07-14: Update Amharic stopword list with 10 new words
 - 2025-07-15: Add test cases for word and sentence tokenization
 - 2025-07-17: Improve test suite coverage to 92%
+- 2025-07-28: Add benchmark test scripts to run tokenization speeds
