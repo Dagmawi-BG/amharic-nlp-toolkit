@@ -419,3 +419,4 @@
 - 2025-07-28: Add benchmark test scripts to run tokenization speeds
 - 2025-08-05: Improve CLI help descriptions and output formatting
 - 2025-08-06: Add sentence tokenizer regex split
+- 2025-08-06: Add benchmark test scripts to run tokenization speeds
