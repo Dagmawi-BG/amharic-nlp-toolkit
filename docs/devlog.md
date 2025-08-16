@@ -421,3 +421,4 @@
 - 2025-08-06: Add sentence tokenizer regex split
 - 2025-08-06: Add benchmark test scripts to run tokenization speeds
 - 2025-08-11: Fix zero-width space normalization bug
+- 2025-08-16: Refactor code structure to modular python package
