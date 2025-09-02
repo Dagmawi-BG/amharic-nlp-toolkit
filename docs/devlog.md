@@ -424,3 +424,4 @@
 - 2025-08-16: Refactor code structure to modular python package
 - 2025-08-19: Add sentence tokenizer regex split
 - 2025-08-19: Improve test suite coverage to 92%
+- 2025-09-02: Add basic unit tests for normalizer homophones
