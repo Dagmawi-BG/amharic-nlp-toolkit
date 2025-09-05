@@ -428,3 +428,4 @@
 - 2025-09-03: Add basic transliteration mappings for common consonants
 - 2025-09-04: Implement stopwords filter utility function
 - 2025-09-05: Add basic transliteration mappings for common consonants
+- 2025-09-05: Improve CLI help descriptions and output formatting
