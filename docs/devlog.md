@@ -427,3 +427,4 @@
 - 2025-09-02: Add basic unit tests for normalizer homophones
 - 2025-09-03: Add basic transliteration mappings for common consonants
 - 2025-09-04: Implement stopwords filter utility function
+- 2025-09-05: Add basic transliteration mappings for common consonants
