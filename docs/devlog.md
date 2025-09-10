@@ -430,3 +430,4 @@
 - 2025-09-05: Add basic transliteration mappings for common consonants
 - 2025-09-05: Improve CLI help descriptions and output formatting
 - 2025-09-10: Update Amharic stopword list with 10 new words
+- 2025-09-10: Refactor code structure to modular python package
