@@ -431,3 +431,4 @@
 - 2025-09-05: Improve CLI help descriptions and output formatting
 - 2025-09-10: Update Amharic stopword list with 10 new words
 - 2025-09-10: Refactor code structure to modular python package
+- 2025-09-24: Add test cases for word and sentence tokenization
