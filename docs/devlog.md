@@ -434,3 +434,4 @@
 - 2025-09-24: Add test cases for word and sentence tokenization
 - 2025-10-07: Add basic transliteration mappings for common consonants
 - 2025-10-08: Add basic transliteration mappings for common consonants
+- 2025-10-09: Create CLI wrapper with argparse
