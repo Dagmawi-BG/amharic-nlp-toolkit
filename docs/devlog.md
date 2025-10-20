@@ -436,3 +436,4 @@
 - 2025-10-08: Add basic transliteration mappings for common consonants
 - 2025-10-09: Create CLI wrapper with argparse
 - 2025-10-16: Init Amharic homophone normalization mapping
+- 2025-10-20: Add sentence tokenizer regex split
