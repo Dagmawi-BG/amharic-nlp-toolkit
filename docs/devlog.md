@@ -439,3 +439,4 @@
 - 2025-10-20: Add sentence tokenizer regex split
 - 2025-10-21: Add sentence tokenizer regex split
 - 2025-10-24: Add sentence tokenizer regex split
+- 2025-10-27: Add sentence tokenizer regex split
