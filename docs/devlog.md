@@ -443,3 +443,4 @@
 - 2025-11-08: Update setup.py and requirements.txt dependencies
 - 2025-11-25: Complete transliterator mappings for all vowel forms
 - 2025-11-27: Implement stopwords filter utility function
+- 2025-11-27: Add test cases for word and sentence tokenization
