@@ -445,3 +445,4 @@
 - 2025-11-27: Implement stopwords filter utility function
 - 2025-11-27: Add test cases for word and sentence tokenization
 - 2025-11-28: Update Amharic stopword list with 10 new words
+- 2025-11-28: Add benchmark test scripts to run tokenization speeds
