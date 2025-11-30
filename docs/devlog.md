@@ -447,3 +447,4 @@
 - 2025-11-28: Update Amharic stopword list with 10 new words
 - 2025-11-28: Add benchmark test scripts to run tokenization speeds
 - 2025-11-30: Update setup.py and requirements.txt dependencies
+- 2025-11-30: Init Amharic homophone normalization mapping
