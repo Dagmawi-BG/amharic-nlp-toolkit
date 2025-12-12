@@ -449,3 +449,4 @@
 - 2025-11-30: Update setup.py and requirements.txt dependencies
 - 2025-11-30: Init Amharic homophone normalization mapping
 - 2025-12-08: Improve CLI help descriptions and output formatting
+- 2025-12-12: Implement stopwords filter utility function
