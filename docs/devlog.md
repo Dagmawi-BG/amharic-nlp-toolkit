@@ -450,3 +450,4 @@
 - 2025-11-30: Init Amharic homophone normalization mapping
 - 2025-12-08: Improve CLI help descriptions and output formatting
 - 2025-12-12: Implement stopwords filter utility function
+- 2025-12-17: Update Amharic stopword list with 10 new words
