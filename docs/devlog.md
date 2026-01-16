@@ -452,3 +452,4 @@
 - 2025-12-12: Implement stopwords filter utility function
 - 2025-12-17: Update Amharic stopword list with 10 new words
 - 2025-12-18: Update setup.py and requirements.txt dependencies
+- 2026-01-16: Init Amharic homophone normalization mapping
