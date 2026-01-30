@@ -455,3 +455,4 @@
 - 2026-01-16: Init Amharic homophone normalization mapping
 - 2026-01-19: Add benchmark test scripts to run tokenization speeds
 - 2026-01-28: Fix zero-width space normalization bug
+- 2026-01-30: Add test cases for word and sentence tokenization
