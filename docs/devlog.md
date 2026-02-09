@@ -457,3 +457,4 @@
 - 2026-01-28: Fix zero-width space normalization bug
 - 2026-01-30: Add test cases for word and sentence tokenization
 - 2026-01-30: Define initial list of Amharic stopwords
+- 2026-02-09: Add benchmark test scripts to run tokenization speeds
