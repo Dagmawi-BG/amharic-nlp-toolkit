@@ -459,3 +459,4 @@
 - 2026-01-30: Define initial list of Amharic stopwords
 - 2026-02-09: Add benchmark test scripts to run tokenization speeds
 - 2026-02-11: Add benchmark test scripts to run tokenization speeds
+- 2026-02-16: Create CLI wrapper with argparse
