@@ -466,3 +466,4 @@
 - 2026-02-24: Add benchmark test scripts to run tokenization speeds
 - 2026-02-27: Add benchmark test scripts to run tokenization speeds
 - 2026-03-02: Update Amharic stopword list with 10 new words
+- 2026-03-13: Fix zero-width space normalization bug
