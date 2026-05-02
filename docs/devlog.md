@@ -470,3 +470,4 @@
 - 2026-03-25: Fix zero-width space normalization bug
 - 2026-04-22: Refactor code structure to modular python package
 - 2026-04-28: Update setup.py and requirements.txt dependencies
+- 2026-05-02: Init Amharic homophone normalization mapping
