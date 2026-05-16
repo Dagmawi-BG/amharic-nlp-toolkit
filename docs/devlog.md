@@ -473,3 +473,4 @@
 - 2026-05-02: Init Amharic homophone normalization mapping
 - 2026-05-16: Fix edge case in transliteration of special punctuation
 - 2026-05-16: Refactor code structure to modular python package
+- 2026-05-16: Define initial list of Amharic stopwords
