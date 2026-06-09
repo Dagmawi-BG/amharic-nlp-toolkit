@@ -476,3 +476,4 @@
 - 2026-05-16: Define initial list of Amharic stopwords
 - 2026-05-22: Add basic unit tests for normalizer homophones
 - 2026-05-27: Create CLI wrapper with argparse
+- 2026-06-09: Complete transliterator mappings for all vowel forms
